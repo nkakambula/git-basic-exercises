@@ -1,0 +1,144 @@
+    1  login
+    2  open Z2 folder
+    3  help
+    4  web
+    5  pattern
+    6  ls
+    7  ls /
+    8  pwd/home
+    9  pwd
+   10  mkdir
+   11  mkdir Learning_unix
+   12  ls
+   13  cd Learning_unix
+   14  cd home
+   15  cd
+   16  pwd
+   17  pwd
+   18  cd
+   19  pwd
+   20  git clone https://github.com/nkakambula/demo-repo.git
+   21  git clone https://github.com/nkakambula/demo-repo.git
+   22  pwd
+   23  ls
+   24  cd umuzi bootcamp/
+   25  cd Desktop/
+   26  cd umuzibootcamp/
+   27  cd umuzi bootcamp/
+   28  cd umuzi/
+   29  ..
+   30  cd ..
+   31  cd umuzi/
+   32  rm -r demo-repo
+   33  git clone https://github.com/nkakambula/demo-repo.git
+   34  demo-repo/
+   35  cd demo-repo/
+   36  ls -la
+   37  git status
+   38  git add .
+   39  git status
+   40  git commit -m "Updated the file"
+   41  git config --global nkanyisokambula3@gmail.com
+   42  gif config --global user.email "nkanyisokambula3@gmail.com"
+   43  git config --global user.email "nkanyisokambula3@gmail.com"
+   44   git config --global user.name "Nkanyiso"
+   45  git commit -m "Updated the file"
+   46  ssh-keygen -t rsa -b 4096 -C "nkanyisokambula3@gmail.com"
+   47  ls | grep sshkey
+   48  cat sshkey
+   49  cat sshkey.pub
+   50  vim ~/.ssh/config
+   51  cd umuzi/
+   52  cd Desktop/
+   53  cd umuzi/
+   54  cd demo-repo/
+   55  eval "$(ssh-agent -s)"
+   56  ssd-add ~/ssh.id_rsa
+   57  ssh-add ~/ssh.id_rsa
+   58  eval $(ssh-agent)
+   59  shh-add sshkey
+   60  ssh-add sshkey
+   61  git push origin main
+   62  ..
+   63  cd ..
+   64  cd demo-repo2/
+   65  git init
+   66  git add.
+   67  git add .
+   68  git status
+   69  git commit -m "Created README OFFLINE"
+   70  git remote add origin https://github.com/nkakambula/demo-repo2.git
+   71  git push origin master
+   72  cd ..
+   73  mkdir git-basic-exercises
+   74  git-basic-execises/
+   75  deom-repo/
+   76  cd demo-repo
+   77  ..cd
+   78  cd ..
+   79  git-basic-exercises/
+   80  cd
+   81  Desktop/
+   82  cd Decktop/
+   83  cd Desktop/
+   84  cd umuzi/
+   85  cd git-basic-exercises/
+   86  ls -a
+   87  git init
+   88  git status
+   89  touch README.md
+   90  ls -a
+   91  git status
+   92  git log
+   93  git status
+   94  git add
+   95  git add .
+   96  git status
+   97  git commit -m "initial commit"
+   98  git log
+   99  nano README.md
+  100  y
+  101  cat README.md
+  102  nano README.md
+  103  cat README.md
+  104  git status
+  105  git add .
+  106  git commit -m "Second commit attempt"
+  107  nano README.md
+  108  git add.
+  109  git add .
+  110  git commit -m "Third commit"
+  111  git log
+  112  q
+  113  git checkout
+  114  dc819b6a4af010056779ccae5c651e273c24443b
+  115  git checkout
+  116  dc819b6a4af010056779ccae5c651e273c24443b
+  117  git checkout
+  118  git log
+  119  q
+  120  q
+  121  git checkout
+  122  git checkout main
+  123  git checkout
+  124  dc819b6a4af010056779ccae5c651e273c24443b
+  125  cat README.md
+  126  git checkout dc819b6a4af010056779ccae5c651e273c24443b
+  127  cat README.md
+  128  git checkout master
+  129  git branch
+  130  milkshake-flavours
+  131  git branch milkshake-flavours
+  132  git checkout milkshake-flavours
+  133  git branch
+  134  nano milkshakes.md
+  135  git status
+  136  git commit -m "added initial flavours"
+  137  git add .
+  138  git commit -m "Added initial flavours"
+  139  git log
+  140  git checkout master
+  141  git branch history
+  142  git log
+  143  git branch
+  144  history > history.txt
